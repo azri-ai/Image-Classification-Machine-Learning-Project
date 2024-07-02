@@ -1,0 +1,32 @@
+# Python
+*.pyc
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Data
+data/
+*.csv
+*.xlsx
+*.xls
+
+# Model artifacts
+models/
+
+# Logs and outputs
+logs/
+output/
+
+# IDE or editor configurations (optional)
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
