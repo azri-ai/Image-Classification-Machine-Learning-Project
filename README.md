@@ -1,4 +1,4 @@
-# image-classification
+# Image Classification
 
 ## Introduction
 This project aims to predict an image that will be classified between 3 classes, rock class, paper class and scissors class using neural network techniques in machine learning. This project was created using a Google Colaboratory Notebook and uses the T4 GPU hardware accelerator on Google Colaboratory. The dataset used in this project is paperrockscissors.zip, data which is downloaded and stored in the temporary Google Colaboratory directory. This is done to save storage on this project. However, if you want to directly access the dataset used, you can download it via the following link: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip. This project is a submission as the final project in the Machine Learning for Beginners class on the Dicoding Indonesia.
